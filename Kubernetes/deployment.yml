@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: biplob/netflix:latest
+        image: biplob38/netflix:latest
         ports:
         - containerPort: 80
